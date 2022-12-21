@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"tugas2","dependencies":{"cookie-parser":{"version":"1.4.6"},"debug":{"version":"2.6.9"},"dotenv":{"version":"16.0.3"},"express":{"version":"4.18.2"},"http-errors":{"version":"1.6.3"},"morgan":{"version":"1.9.1"},"mysql2":{"version":"2.3.3"},"pug":{"version":"3.0.2"},"sequelize-cli":{"version":"6.5.2"},"sequelize":{"version":"6.27.0"}}}
